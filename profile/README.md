@@ -21,4 +21,4 @@ Traditional web development is slow and complex. With Plates.dev, you can go fro
 - Focused on productivity, creativity, and your workflow
 
 ## Get Involved
-- 👥 Join our beta and follow our journey: [Plates.dev](https://www.plates.dev)
+- 👥 Join our beta and follow our journey: [Plates.dev](https://plates.dev)
